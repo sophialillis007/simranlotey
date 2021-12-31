@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**About me*
+**About me**
 
 - My Name is Simranpreet Singh
 - I'm BCA Student of Guru Nanak Insititute Of Management & Technology
