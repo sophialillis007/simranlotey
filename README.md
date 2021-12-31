@@ -6,7 +6,7 @@
 - My Name is Simranpreet Singh
 - I'm BCA Student of Guru Nanak Insititute Of Management & Technology
 - I Am Frontend Developer
-- I Work In HTML5, Css, Bootsrap, SCSS, SASS, Javascript, ⚛️ReactJS⚛️, Learning Typescript, Git
+- I Work In HTML5, Css, Bootsrap, SCSS, SASS, Javascript, ⚛️ReactJS⚛️, Typescript, Git
 - My Favorite Language is JavaScript😄
 - Learning New Things Is My Second Highest Priority, Learn To Manage Things Is Still First
 
@@ -43,7 +43,4 @@
 
 <a href="https://twitter.com/simranloteyy">
   <img alt="simranloteyy | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://instagram.com/simranloteyy">
-  <img alt="simranloteyy" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/instagram.svg" />
 </a>
