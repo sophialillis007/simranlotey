@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**About me**
+**About me*
 
 - My Name is Simranpreet Singh
 - I'm BCA Student of Guru Nanak Insititute Of Management & Technology
@@ -43,4 +43,7 @@
 
 <a href="https://twitter.com/simranloteyy">
   <img alt="simranloteyy | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://instagram.com/simranloteyy">
+  <img alt="simranloteyy" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/instagram.svg" />
 </a>
