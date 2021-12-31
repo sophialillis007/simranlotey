@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 <br /> 
 
 <a href="https://twitter.com/simranloteyy">
-  <img align="right" alt="simranloteyy | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img alt="simranloteyy | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
