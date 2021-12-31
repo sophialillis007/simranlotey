@@ -29,18 +29,6 @@
 <br />
 <br /> 
 
-### React Apps
-
-<a href="https://github.com/simranlotey/react-news-app.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simranlotey&repo=react-news-app&theme=buefy" />
-</a>
-<a href="https://github.com/simranlotey/react-currency-converter.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simranlotey&repo=react-currency-converter&theme=buefy" />
-</a>
-
-<br />
-<br /> 
-
 <a href="https://twitter.com/simranloteyy">
   <img alt="simranloteyy | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
