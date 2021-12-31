@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 <br />
 <br /> 
 
+#### React Apps
+
 <a href="https://github.com/simranlotey/react-news-app.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simranlotey&repo=react-news-app&theme=buefy" />
 </a>
