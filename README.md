@@ -42,6 +42,3 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/simranloteyy">
   <img align="right" alt="simranloteyy | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://instagram.com/simranloteyy">
-  <img align="right" alt="simranloteyy | Instagram" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/instagram.svg" />
-</a>
