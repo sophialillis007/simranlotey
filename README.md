@@ -8,7 +8,7 @@
 - I Am Frontend Developer 💻
 - I Work In HTML5, Css, Bootsrap, SCSS, SASS, Javascript, ⚛️ReactJS⚛️, Typescript, Git
 - My Favorite Language is JavaScript😄
-- Learning New Things Is My Second Highest Priority, Learn To Manage Things Is Still First
+- Learning new things is my second highest priority, learn to manage things is still first
 
 
 **Languages and Tools:** 
